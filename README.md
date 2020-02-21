@@ -10,8 +10,8 @@ Descripción:
 Logotipo: 
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:  Francisco Javier Casado de Amezúa García     :octocat:     
+ * :bust_in_silhouette:  Miguel Muñoz Molina     :octocat:
 
 ----- 
 
