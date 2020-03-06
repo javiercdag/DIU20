@@ -51,7 +51,7 @@ Hemos seleccionado a esta persona debido a que notamos que faltaban opciones de 
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
-Erika: en el caso de Erika el journey map fue lo que nos llevó a idear la Persona, pues imaginamos la situación que podría ocurrir cuando alguien con este perfil utiliza la aplicación.
+Erika: en el caso de Erika el journey map fue lo que nos llevó a idear la Persona, pues nuestra inspiración para crearla fue imaginar la situación que podría ocurrir cuando alguien con este perfil utiliza la aplicación.
 ![](img/JourneyErika.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
