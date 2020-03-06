@@ -43,7 +43,7 @@ Debido tanto a estos dos criterios como a en general un proceso de registro much
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
-Hemos seleccionado a esta persona debido a que notamos que faltaban opciones de género en la pantalla de registro, y es algo importante en una aplicación que involucra contacto social. Además, solucionar el problema que esta Persona encuentra es sencillo, barato y tiene un gran impacto. ![](img/CapturaErika.png)
+Hemos seleccionado a esta persona debido a que notamos que faltaban opciones de género en la pantalla de registro, y es algo importante en una aplicación que involucra contacto social. Además, solucionar el problema que esta Persona encuentra es sencillo, barato y tiene un gran impacto. ![](img/CapturaErika.PNG)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
