@@ -43,6 +43,8 @@ Debido tanto a estos dos criterios como a en general un proceso de registro much
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
+(img/CapturaErika.png)
+
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
