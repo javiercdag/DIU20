@@ -43,7 +43,9 @@ Debido tanto a estos dos criterios como a en general un proceso de registro much
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
-Hemos seleccionado a esta persona debido a que notamos que faltaban opciones de género en la pantalla de registro, y es algo importante en una aplicación que involucra contacto social. Además, solucionar el problema que esta Persona encuentra es sencillo, barato y tiene un gran impacto. ![](img/CapturaErika.PNG)
+Erika: hemos creado esta persona cuando, durante el análisis de la web, en el registro se debía elegir entre género chico/chica; poder establecer este tipo de características personales claramente es algo de vital importanca al compartir piso, pues la convivencia. Además, solucionar el problema que esta Persona encuentra es sencillo, barato y tiene un gran impacto. ![](img/CapturaErika.PNG)
+
+Evaristo: la motivación para crear a Evaristo se basa especialmente en dos factores: en primer lugar, es común entre personas mayores buscar compañía con la que vivir. Además, habitualmente, las personas de edad avanzada tienen problemas al usar aplicaciones con interfaces de usuario mejorables. ![](img/CapturaEvaristo.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
@@ -51,8 +53,11 @@ Hemos seleccionado a esta persona debido a que notamos que faltaban opciones de 
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
-Erika: en el caso de Erika el journey map fue lo que nos llevó a idear la Persona, pues nuestra inspiración para crearla fue imaginar la situación que podría ocurrir cuando alguien con este perfil utiliza la aplicación.
+Erika: nuestra inspiración para crear a Erika fue imaginar la situación que podría ocurrir cuando alguien con este perfil utiliza la aplicación, y eso es lo representado en el journey map. A más personas no se identifiquen con los dos géneros clásicos, más habitual se volvería.
 ![](img/JourneyErika.png)
+
+Evaristo: para crear el journey map de Evaristo nos fijamos que no existe tutorial o ayuda alguna para utilizar la aplicación, algo que puede provocar que usuarios poco avanzados como él pierdan tiempo y ganas de utilizarla. Es una situación muy común hoy en día.
+![](img/JourneyEvaristo.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
