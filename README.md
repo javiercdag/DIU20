@@ -56,7 +56,7 @@ Evaristo: la motivación para crear a Evaristo se basa especialmente en dos fact
 Erika: nuestra inspiración para crear a Erika fue imaginar la situación que podría ocurrir cuando alguien con este perfil utiliza la aplicación, y eso es lo representado en el journey map. A más personas no se identifiquen con los dos géneros clásicos, más habitual se volvería.
 ![](img/JourneyErika.png)
 
-Evaristo: para crear el journey map de Evaristo nos fijamos que no existe tutorial o ayuda alguna para utilizar la aplicación, algo que puede provocar que usuarios poco avanzados como él pierdan tiempo y ganas de utilizarla. Es una situación muy común hoy en día.
+Evaristo: para crear el journey map de Evaristo nos fijamos el tutorial disponible en la página es muy pobre o ayuda alguna para utilizar la aplicación, algo que puede provocar que usuarios poco avanzados como él pierdan tiempo y ganas de utilizarla. Es una situación muy común hoy en día.
 ![](img/JourneyEvaristo.PNG)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
