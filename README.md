@@ -1,17 +1,17 @@
 # DIU20
 Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa) 
 
-Grupo: DIU1_01AABB.  Curso: 2019/20 
+Grupo: DIU2_Mumavi.  Curso: 2019/20 
 
-Proyecto: 
+Proyecto: Aplicación de buscar piso definitiva
 
-Descripción: 
+Descripción: En este trabajo se va a buscar diseñar una aplicación de búsqueda de pisos para compartir mejorando las que existen hoy en día
 
 Logotipo: 
 
 Miembros
- * :bust_in_silhouette:  Francisco Javier Casado de Amezúa García     :octocat:     
- * :bust_in_silhouette:  Miguel Muñoz Molina     :octocat:
+ * :bust_in_silhouette:  Francisco Javier Casado de Amezúa García     
+ * :bust_in_silhouette:  Miguel Muñoz Molina
 
 ----- 
 
@@ -45,7 +45,7 @@ Debido tanto a estos dos criterios como a en general un proceso de registro much
 
 Erika: hemos creado esta persona cuando, durante el análisis de la web, en el registro se debía elegir entre género chico/chica; poder establecer este tipo de características personales claramente es algo de vital importanca al compartir piso, pues la convivencia. Además, solucionar el problema que esta Persona encuentra es sencillo, barato y tiene un gran impacto. ![](img/CapturaErika.PNG)
 
-Evaristo: la motivación para crear a Evaristo se basa especialmente en dos factores: en primer lugar, es común entre personas mayores buscar compañía con la que vivir. Además, habitualmente, las personas de edad avanzada tienen problemas al usar aplicaciones con interfaces de usuario mejorables. ![](img/CapturaEvaristo.png)
+Evaristo: la motivación para crear a Evaristo se basa especialmente en dos factores: en primer lugar, es común entre personas mayores buscar compañía con la que vivir. Además, habitualmente, las personas de edad avanzada tienen problemas al usar aplicaciones con interfaces de usuario mejorables. ![](img/CapturaEvaristo.PNG)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
@@ -57,7 +57,7 @@ Erika: nuestra inspiración para crear a Erika fue imaginar la situación que po
 ![](img/JourneyErika.png)
 
 Evaristo: para crear el journey map de Evaristo nos fijamos que no existe tutorial o ayuda alguna para utilizar la aplicación, algo que puede provocar que usuarios poco avanzados como él pierdan tiempo y ganas de utilizarla. Es una situación muy común hoy en día.
-![](img/JourneyEvaristo.png)
+![](img/JourneyEvaristo.PNG)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
