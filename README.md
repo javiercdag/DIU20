@@ -30,7 +30,13 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+>>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres)
+
+Las aplicaciones de compartir piso se caracterizan por tener una herramienta de búsqueda que utilizas para establecer la zona en la que buscas tu piso. La principal diferencia entre las aplicaciones es si permiten utilizar esta funcionalidad sin necesidad de registrarse, como por ejemplo Badi, y las que no, como es el caso de Coachsurfing Travel o Splitwise.
+
+Otra importante diferencia es la forma en que se muestran los pisos disponibles, y la información que se proporciona del anunciante (cúanto se respeta su privacidad). Esto nos llevó a descartar PisoCompartido puesto que mostraba el número de teléfono (e incluso si estaba conectado a la aplicación o no, en tiempo real) del anunciante a cualquier persona, registrada o no, que visitara el anuncio.
+
+Debido tanto a estos dos criterios como a en general un proceso de registro mucho más amigable que el de la competencia y un listado de los pisos resultado de la búsqueda intuitivo y agradable, decidimos enfocar nuestro trabajo en Badi.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
