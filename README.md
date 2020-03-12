@@ -64,8 +64,8 @@ Evaristo: para crear el journey map de Evaristo nos fijamos el tutorial disponib
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
 >>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> - Valoración final (numérica): 85
+>>> - Comentario sobre la valoración:  En general, nuestra valoración de Badi ha sido positiva. Destaca su fácil uso y minimalista interfaz, aunque ésta es a la vez su mayor defecto.
 
 
 ## Paso 2. UX Design  
