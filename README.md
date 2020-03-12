@@ -39,9 +39,9 @@ Tras analizar aplicaciones como Coachsurfing Travel, Splitwise, PisoCompartido o
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
-Erika: en el registro se debía elegir entre género chico/chica, lo que puede ocasionar problemas de convivencia para personas como Erika. Además, solucionar el problema que esta Persona encuentra es sencillo, barato y tiene un gran impacto.
+- **Erika:** en el registro se debía elegir entre género chico/chica, lo que puede ocasionar problemas de convivencia para personas como Erika. Además, solucionar el problema que esta Persona encuentra es sencillo, barato y tiene un gran impacto.
 
-Evaristo: es común entre personas mayores buscar compañía con la que vivir; además, habitualmente, las personas de edad avanzada tienen problemas al usar aplicaciones con interfaces de usuario mejorables. 
+- **Evaristo:** es común entre personas mayores buscar compañía con la que vivir; además, habitualmente, las personas de edad avanzada tienen problemas al usar aplicaciones con interfaces de usuario mejorables. 
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
@@ -49,10 +49,10 @@ Evaristo: es común entre personas mayores buscar compañía con la que vivir; a
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
-Erika: nuestra inspiración para crear a Erika fue imaginar la situación que podría ocurrir cuando alguien con este perfil utiliza la aplicación, y eso es lo representado en el journey map. A más personas no se identifiquen con los dos géneros clásicos, más habitual se volvería.
+- **Erika:** nuestra inspiración para crear a Erika fue imaginar la situación que podría ocurrir cuando alguien con este perfil utiliza la aplicación, y eso es lo representado en el journey map. A más personas no se identifiquen con los dos géneros clásicos, más habitual se volvería.
 
 
-Evaristo: para crear el journey map de Evaristo nos fijamos en que el tutorial disponible en la página es muy pobre, algo que puede provocar que usuarios poco experimentados como él pierdan tiempo y ganas de utilizarla. Es una situación muy común hoy en día.
+- **Evaristo:** para crear el journey map de Evaristo nos fijamos en que el tutorial disponible en la página es muy pobre, algo que puede provocar que usuarios poco experimentados como él pierdan tiempo y ganas de utilizarla. Es una situación muy común hoy en día.
 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
