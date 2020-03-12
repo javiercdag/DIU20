@@ -32,20 +32,16 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres)
 
-Las aplicaciones de compartir piso se caracterizan por tener una herramienta de búsqueda que utilizas para establecer la zona en la que buscas tu piso. La principal diferencia entre las aplicaciones es si permiten utilizar esta funcionalidad sin necesidad de registrarse, como por ejemplo Badi, y las que no, como es el caso de Coachsurfing Travel o Splitwise.
-
-Otra importante diferencia es la forma en que se muestran los pisos disponibles, y la información que se proporciona del anunciante (cúanto se respeta su privacidad). Esto nos llevó a descartar PisoCompartido puesto que mostraba el número de teléfono (e incluso si estaba conectado a la aplicación o no, en tiempo real) del anunciante a cualquier persona, registrada o no, que visitara el anuncio.
-
-Debido tanto a estos dos criterios como a en general un proceso de registro mucho más amigable que el de la competencia y un listado de los pisos resultado de la búsqueda intuitivo y agradable, decidimos enfocar nuestro trabajo en Badi.
+Tras analizar aplicaciones como Coachsurfing Travel, Splitwise, PisoCompartido o Badi decidimos optar por la última debido a que, a nuestro parecer, era la que ofrecía el servicio de mayor calidad.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
-Erika: hemos creado esta persona cuando, durante el análisis de la web, en el registro se debía elegir entre género chico/chica; poder establecer este tipo de características personales claramente es algo de vital importanca al compartir piso, pues la convivencia. Además, solucionar el problema que esta Persona encuentra es sencillo, barato y tiene un gran impacto. ![](img/CapturaErika.PNG)
+Erika: en el registro se debía elegir entre género chico/chica, lo que puede ocasionar problemas de convivencia para personas como Erika. Además, solucionar el problema que esta Persona encuentra es sencillo, barato y tiene un gran impacto.
 
-Evaristo: la motivación para crear a Evaristo se basa especialmente en dos factores: en primer lugar, es común entre personas mayores buscar compañía con la que vivir. Además, habitualmente, las personas de edad avanzada tienen problemas al usar aplicaciones con interfaces de usuario mejorables. ![](img/CapturaEvaristo.PNG)
+Evaristo: es común entre personas mayores buscar compañía con la que vivir; además, habitualmente, las personas de edad avanzada tienen problemas al usar aplicaciones con interfaces de usuario mejorables. 
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
@@ -54,18 +50,18 @@ Evaristo: la motivación para crear a Evaristo se basa especialmente en dos fact
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
 Erika: nuestra inspiración para crear a Erika fue imaginar la situación que podría ocurrir cuando alguien con este perfil utiliza la aplicación, y eso es lo representado en el journey map. A más personas no se identifiquen con los dos géneros clásicos, más habitual se volvería.
-![](img/JourneyErika.png)
 
-Evaristo: para crear el journey map de Evaristo nos fijamos el tutorial disponible en la página es muy pobre o ayuda alguna para utilizar la aplicación, algo que puede provocar que usuarios poco avanzados como él pierdan tiempo y ganas de utilizarla. Es una situación muy común hoy en día.
-![](img/JourneyEvaristo.PNG)
+
+Evaristo: para crear el journey map de Evaristo nos fijamos en que el tutorial disponible en la página es muy pobre, algo que puede provocar que usuarios poco experimentados como él pierdan tiempo y ganas de utilizarla. Es una situación muy común hoy en día.
+
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 85
->>> - Comentario sobre la valoración:  En general, nuestra valoración de Badi ha sido positiva. Destaca su fácil uso y minimalista interfaz, aunque ésta es a la vez su mayor defecto.
+
+- Enlace al documento: ![Haga click aquí para ver el documento](P1/UsabilityReview/UsabilityReview-Badi-Mumavi.xls)
+- Valoración final (numérica): 85
+- Comentario sobre la valoración:  En general, nuestra valoración de Badi ha sido positiva. Destaca su fácil uso y minimalista interfaz, aunque ésta es a la vez su mayor defecto.
 
 
 ## Paso 2. UX Design  
