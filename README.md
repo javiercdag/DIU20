@@ -59,7 +59,7 @@ Tras analizar aplicaciones como Coachsurfing Travel, Splitwise, PisoCompartido o
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 
-- Enlace al documento: ![Haga click aquí para ver el documento](P1/UsabilityReview/UsabilityReview-Badi-Mumavi.xls)
+- Enlace al documento: ![Haga click aquí para ver el documento](P1/UsabilityReview/)
 - Valoración final (numérica): 85
 - Comentario sobre la valoración:  En general, nuestra valoración de Badi ha sido positiva. Destaca su fácil uso y minimalista interfaz, aunque ésta es a la vez su mayor defecto.
 
