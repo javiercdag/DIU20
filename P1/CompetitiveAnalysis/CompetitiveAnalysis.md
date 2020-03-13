@@ -9,6 +9,6 @@ Debido tanto a estos dos criterios como a en general un proceso de registro much
 | Aplicación | Autentificación no requerida | Privacidad | Buscar piso | Organizar gastos | Ayuda por chat online | Personalización avanzada del perfil |
 | --- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | Badi | ✔ | ✔ | ✔ | ✘ | ✔ | ✔ |
-| Coachsurfing Travel | ✘ | ✔ | ✔ | ✘ | ✘ | ✘ |
+| Coachsurfing Travel | ✘ | ✔ | ✔ | ✘ | ✘ | ✔ |
 | Splitwise | ✘ | ✔ | ✘ | ✔ | ✘ | ✘ |
 | PisoCompartido | ✔ | ✘ | ✔ | ✘ | ✘ | ✘ |
