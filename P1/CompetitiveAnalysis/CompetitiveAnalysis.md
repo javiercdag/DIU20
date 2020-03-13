@@ -6,7 +6,7 @@ Otra importante diferencia es la forma en que se muestran los pisos disponibles,
 
 Debido tanto a estos dos criterios como a en general un proceso de registro mucho más amigable que el de la competencia y un listado de los pisos resultado de la búsqueda intuitivo y agradable, decidimos enfocar nuestro trabajo en Badi.
 
-| Aplicación | Autentificación no requerida | Privacidad | Buscar piso | Organizar gastos | Ayuda por chat online | Personalización perfil |
+| Aplicación | Autentificación no requerida | Privacidad | Buscar piso | Organizar gastos | Ayuda por chat online | Personalización avanzada del perfil |
 | --- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | Badi | ✔ | ✔ | ✔ | ✘ | ✔ | ✔ |
 | Coachsurfing Travel | ✘ | ✔ | ✔ | ✘ | ✘ | ✘ |
