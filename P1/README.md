@@ -23,3 +23,19 @@ Debido tanto a estos dos criterios como a en general un proceso de registro much
 | Splitwise | ✘ | ✔ | ✘ | ✔ | ✘ | ✘ |
 | PisoCompartido | ✔ | ✘ | ✔ | ✘ | ✘ | ✘ |
 
+## PERSONAS
+- **Erika:** en el registro se debía elegir entre género chico/chica, lo que puede ocasionar problemas de convivencia para personas como Erika. Además, solucionar el problema que esta Persona encuentra es sencillo, barato y tiene un gran impacto.
+![](Personas/Erika_Persona.png)
+
+- **Evaristo:** es común entre personas mayores buscar compañía con la que vivir; además, habitualmente, las personas de edad avanzada tienen problemas al usar aplicaciones con interfaces de usuario mejorables.
+![](Personas/Evaristo_Persona.png)
+
+## USER JOURNEY MAPS
+- **Erika:** nuestra inspiración para crear a Erika fue imaginar la situación que podría ocurrir cuando alguien con este perfil utiliza la aplicación, y eso es lo representado en el journey map. A más personas no se identifiquen con los dos géneros clásicos, más habitual se volvería.
+![](JourneyMaps/Erika_JourneyMap.png)
+
+- **Evaristo:** para crear el journey map de Evaristo nos fijamos en que el tutorial disponible en la página es muy pobre, algo que puede provocar que usuarios poco experimentados como él pierdan tiempo y ganas de utilizarla. Es una situación muy común hoy en día.
+![](JourneyMaps/Evaristo_JourneyMap.png)
+
+## USABILITY REVIEW
+- **Puntuación:** 85.
