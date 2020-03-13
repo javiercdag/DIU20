@@ -38,6 +38,6 @@ Debido tanto a estos dos criterios como a en general un proceso de registro much
 ![](JourneyMaps/Evaristo_JourneyMap.png)
 
 ## USABILITY REVIEW
-- **Enlace al documento:** ![Haga click aquí para ver el documento](P1/UsabilityReview/UsabilityReview-Badi-Mumavi.xls)
+- **Enlace al documento:** ![Haga click aquí para ver el documento](P1/UsabilityReview/UsabilityReview-Badi-Mumavi.pdf)
 - **Valoración final (numérica):** 85
 - **Comentario sobre la valoración:** 
