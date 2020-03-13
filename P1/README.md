@@ -40,4 +40,4 @@ Debido tanto a estos dos criterios como a en general un proceso de registro much
 ## USABILITY REVIEW
 - **Enlace al documento:** ![Haga click aquí para ver el documento](UsabilityReview/UsabilityReview-Badi-Mumavi.pdf)
 - **Valoración final (numérica):** 85
-- **Comentario sobre la valoración:** 
+- **Comentario sobre la valoración:** En general, nuestra valoración de Badi ha sido positiva. Como puntos positivos, encontramos que Badi permite una gran personalización de los perfiles de usuario, parte fundamental en la convivencia de las personas que buscan compartir piso. Además, su interfaz es muy clara, minimalista y cuenta con un sistema de chat online en el que un equipo resuelve las dudas que puedan surgir al usar la aplicación. No obstante, presenta algunos defectos que pueden ser fácilmente mejorables, como la ausencia de más tipos de filtrado sobre la búsqueda de pisos, ya sea por edad, puntuación del anunciante, etc; o sólo permitir elegir entre chico o chica en la personalización del perfil.
