@@ -89,6 +89,8 @@ Tras analizar aplicaciones como Coachsurfing Travel, Splitwise, PisoCompartido o
 -----
 ![](P2/Tasks/tasks.png)
 
+![](P2/Sitemap/Sitemap_Mumavi.png)
+
 Término | Significado     
 | ------------- | -------
 index  | pagina principal
