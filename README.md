@@ -98,7 +98,15 @@ Tras analizar aplicaciones como Coachsurfing Travel, Splitwise, PisoCompartido o
 
 Término | Significado     
 | ------------- | -------
-  Login¿?  | acceder a plataforma
+index  | pagina principal
+user_profile | perfil de cada usuario
+publish_flat | página para publicar tu piso
+search_flat | resultados de busqueda de piso
+flat_details | detalles de un piso concreto
+paypal | pantalla de pagos
+help | seccion de ayuda
+about_us | pagina de información sobre la empresa
+contact_us | seccion con información de contacto
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
