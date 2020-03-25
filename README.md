@@ -74,9 +74,7 @@ Tras analizar aplicaciones como Coachsurfing Travel, Splitwise, PisoCompartido o
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
+![](P2/FeedbackCaptureGrid/FeedbackCaptureGrid_Mumavi.JPG)
   
   
   
