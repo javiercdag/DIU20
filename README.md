@@ -75,13 +75,8 @@ Tras analizar aplicaciones como Coachsurfing Travel, Splitwise, PisoCompartido o
 
 
 ![](P2/FeedbackCaptureGrid/FeedbackCaptureGrid_Mumavi.JPG)
-  
-  
-  
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+
+Con las ideas de la sección inferior derecha planteamos la creación de una aplicación para compartir piso que mejore a las disponibles actualmente, ofreciendo más y mejores servicios.
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
