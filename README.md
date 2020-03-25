@@ -89,13 +89,6 @@ Tras analizar aplicaciones como Coachsurfing Travel, Splitwise, PisoCompartido o
 -----
 ![](P2/Tasks/tasks.png)
 
-
-![Método UX](img/labelling.png) 2.c Labelling 
-----
-
-
->>> Identificar términos para diálogo con usuario  
-
 Término | Significado     
 | ------------- | -------
 index  | pagina principal
@@ -107,6 +100,15 @@ paypal | pantalla de pagos
 help | seccion de ayuda
 about_us | pagina de información sobre la empresa
 contact_us | seccion con información de contacto
+
+
+![Método UX](img/labelling.png) 2.c Labelling 
+----
+
+
+>>> Identificar términos para diálogo con usuario  
+
+
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
