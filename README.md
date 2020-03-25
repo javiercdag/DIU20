@@ -87,8 +87,7 @@ Tras analizar aplicaciones como Coachsurfing Travel, Splitwise, PisoCompartido o
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
-
->>> Definir "User Map" y "Task Flow" ... 
+![](P2/Tasks/tasks.png)
 
 
 ![Método UX](img/labelling.png) 2.c Labelling 
