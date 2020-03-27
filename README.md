@@ -70,19 +70,17 @@ Tras analizar aplicaciones como Coachsurfing Travel, Splitwise, PisoCompartido o
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
-![](P2/FeedbackCaptureGrid/FeedbackCaptureGrid_Mumavi.JPG)
+<img src="P2/FeedbackCaptureGrid/FeedbackCaptureGrid_Mumavi.JPG" width="515">
 
 Con las ideas de la sección inferior derecha planteamos la creación de una aplicación para compartir piso que mejore a las disponibles actualmente, ofreciendo más y mejores servicios.
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
-![](P2/Tasks/tasks.png)
+- TASKS:
+<img src="P2/Tasks/tasks.png" width="515">
 
-![](P2/Sitemap/Sitemap_Mumavi.jpg)
+- SITEMAP:
+<img src="P2/Sitemap/Sitemap_Mumavi.jpg" width="725">
 
 Término | Significado     
 | ------------- | -------
