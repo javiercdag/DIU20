@@ -97,12 +97,37 @@ about_us | pagina de información sobre la empresa
 contact_us | seccion con información de contacto
 
 
-![Método UX](img/labelling.png) 2.c Labelling 
-----
+![Método UX](img/labelling.png) 2.c Labelling
 
-
->>> Identificar términos para diálogo con usuario  
-
+Término | Significado     
+| ------------- | -------
+barra_busqueda  | barra de búsqueda de pisos
+notificaciones | lista de notificaciones a mostrar
+logo_pagina | logo de la aplicación que enlaza a la página principal
+menu | menu desplegable para la navegación
+sugerencias | muestra de ciudades y pisos más vistos
+soporte | enlace a la sección donde se muestra la ayuda en línea
+tutoriales | contenedor para los videotutoriales
+chat_soporte | canal directo de comunicación con asistencia al usuario
+pie | sección pie de página que incluye enlaces interesantes
+formulario_registro | contiene los campos obligatorios y opcionales para la creación de una nueva cuenta
+login | formulario para el inicio de sesión en una cuenta existente
+formulario_piso | campos de información a rellenar sobre el piso a publicar
+boton_mi_perfil | muestra información acerca de la cuenta de usuario y permite redirigir al perfil
+boton_editar_perfil | boton que 
+formulario_perfil | campos editables del perfil de usuario
+foto_perfil | foto de usuario
+información_perfil | información mostrada de cada usuario en su perfil
+filtros_busqueda | filtros a aplicar a la búsqueda de piso
+resultados_busqueda | resultados de la búsqueda de piso
+mapa_busqueda | mapa que muestra la posición en la ciudad de los pisos mostrados
+galeria_piso | galeria multimedia sobre el piso
+informacion_piso | información redactada sobre el piso
+perfil_anunciante | foto que redirige al perfil del anunciante del piso
+redes_sociales_piso | contenedor con botones que enlazan a la publicación de este piso en redes sociales
+formulario_reservar | formulario que contiene los campos a rellenar para solicitar reserva de piso
+información_piso_resumida | resumen de la información del piso mostrada mientras se rellena la solicitud de reserva del mismo
+formulario_pago | contiene selector de método de pago y los datos de pago asociados
 
 
 
