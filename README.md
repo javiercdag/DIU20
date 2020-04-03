@@ -84,12 +84,12 @@ Se han implementado todas las tareas en los Wireframes de la sección 2.d de est
 - SITEMAP:
 El sitemap puede verse ![AQUÍ](P2/Sitemap/)
 
-** Leyenda **
+**Leyenda**
 Las flechas direccionales implican navegación entre los elementos conectados en la dirección que marca la punta.
 Las flechas discontinuas implican compartición automática de información: por ejemplo, la información del perfil del anunciante de un piso está disponible al visitar el piso que ha visitado
 
 
-![Método UX](img/labelling.png) 2.c Labelling
+**![Método UX](img/labelling.png) 2.c Labelling**
 
 Término | Significado     
 | ------------- | -------
