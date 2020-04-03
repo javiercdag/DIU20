@@ -89,6 +89,7 @@ Término | Significado
 | ------------- | -------
 index  | pagina principal de la aplicación
 user_profile | perfil de cada usuario
+edit_user_profile | página para la personalización del perfil de usuario
 publish_flat | página para publicar tu piso
 search_flat | resultados de busqueda de piso
 flat_details | detalles de un piso concreto
