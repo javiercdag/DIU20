@@ -102,8 +102,10 @@ Información de piso | detalles de un piso concreto, que incluye información av
 Pago online | pantalla de pagos que se rellena con la información que se haya rellenado en la sección de pagos del perfil propio. Si no se ha rellenado o no se ha iniciado sesión, se ofrece la opción que corresponda.
 Ayuda | sección de ayuda, a la que se puede acceder como pop-up desde cualquier otra sección de la app y contiene dos opciones: visualizar videotutoriales breves o contactar con el soporte técnico a través de un chat online que estima el tiempo de espera hasta recibir respuesta en base a una heurística
 Sobre nosotros | pagina de información sobre la empresa, con enlace a la página de contacto así como información legal
-contact_us | sección con información de contacto con los diferentes equipos de atención a entidades externas de la empresa
-
+Contacto | sección con información de contacto con los diferentes equipos de atención a entidades externas de la empresa
+Login | pantalla de inicio de sesión: se puede cerrar para continuar la navegación como invitado a menos que se quiera publicar un piso, acceder a una cuenta existente indicando nombre de usuario/email y contraseña o acceder al registro si se desea hacer una nueva
+Registro | formulario para crear una cuenta nueva en la aplicación. Muchos campos son opcionales para poder completarse en la personalización del perfil.
+Contactar anunciante | formulario para contactar al anunciante de un piso publicado. Es necesario introducir un email, pero si se ha iniciado sesión esta información es autorrellenada
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
