@@ -70,18 +70,23 @@ Tras analizar aplicaciones como Coachsurfing Travel, Splitwise, PisoCompartido o
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
-<img src="P2/FeedbackCaptureGrid/FeedbackCaptureGrid_Mumavi.JPG" width="515">
+Con FHome queremos implementar nuevas ideas basadas en el estudio que se ha realizado en este documento que incluyen búsqueda inteligente de pisos, uso de heurísticas para mejorar la experiencia de usuario y mejoras generales en la calidad de la experiencia de cada cliente.
 
-Con las ideas de la sección inferior derecha planteamos la creación de una aplicación para compartir piso que mejore a las disponibles actualmente, ofreciendo más y mejores servicios.
+El Feedback Capture Grid utilizado para encontrar problemas, sugerencias y nuevas ideas se encuentra disponible ![AQUÍ](P2/FeedbackCaptureGrid/FeedbackCaptureGrid_Mumavi.JPG)
+
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 - TASKS:
-<img src="P2/Tasks/tasks.png" width="515">
+Las tareas encontradas pueden verse ![AQUÍ](P2/Tasks/tasks.png)
 Se han implementado todas las tareas en los Wireframes de la sección 2.d de este documento.
 
 - SITEMAP:
-<img src="P2/Sitemap/Sitemap_Mumavi.jpg" width="725">
+El sitemap puede verse ![AQUÍ](P2/Sitemap/Sitemap_Mumavi.jpg)
+
+** Leyenda **
+Las flechas direccionales implican navegación entre los elementos conectados en la dirección que marca la punta.
+Las flechas discontinuas implican compartición automática de información: por ejemplo, la información del perfil del anunciante de un piso está disponible al visitar el piso que ha visitado
 
 
 ![Método UX](img/labelling.png) 2.c Labelling
