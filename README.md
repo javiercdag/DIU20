@@ -72,17 +72,17 @@ Tras analizar aplicaciones como Coachsurfing Travel, Splitwise, PisoCompartido o
 
 Con FHome queremos implementar nuevas ideas basadas en el estudio que se ha realizado en este documento que incluyen búsqueda inteligente de pisos, uso de heurísticas para mejorar la experiencia de usuario y mejoras generales en la calidad de la experiencia de cada cliente.
 
-El Feedback Capture Grid utilizado para encontrar problemas, sugerencias y nuevas ideas se encuentra disponible ![AQUÍ](P2/FeedbackCaptureGrid/FeedbackCaptureGrid_Mumavi.JPG)
+El Feedback Capture Grid utilizado para encontrar problemas, sugerencias y nuevas ideas se encuentra disponible ![AQUÍ](P2/FeedbackCaptureGrid)
 
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 - TASKS:
-Las tareas encontradas pueden verse ![AQUÍ](P2/Tasks/tasks.png)
+Las tareas encontradas pueden verse ![AQUÍ](P2/Tasks/)
 Se han implementado todas las tareas en los Wireframes de la sección 2.d de este documento.
 
 - SITEMAP:
-El sitemap puede verse ![AQUÍ](P2/Sitemap/Sitemap_Mumavi.jpg)
+El sitemap puede verse ![AQUÍ](P2/Sitemap/)
 
 ** Leyenda **
 Las flechas direccionales implican navegación entre los elementos conectados en la dirección que marca la punta.
