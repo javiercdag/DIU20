@@ -93,16 +93,16 @@ Las flechas discontinuas implican compartición automática de información: por
 
 Término | Significado     
 | ------------- | -------
-index  | pagina principal de la aplicación
-user_profile | perfil de cada usuario
-edit_user_profile | página para la personalización del perfil de usuario
-publish_flat | página para publicar tu piso
-search_flat | resultados de busqueda de piso
-flat_details | detalles de un piso concreto
-payment | pantalla de pagos
-help | seccion de ayuda
-about_us | pagina de información sobre la empresa
-contact_us | seccion con información de contacto
+Página Principal  | pagina principal de la aplicación: enlaza principalmente a buscar piso y publicar piso, aunque muestra también recomendaciones.
+Perfil de usuario | perfil de cada usuario; en caso de acceder al propio sin haber iniciado sesión, da la opción de hacerlo; si se ha iniciado sesión da la opción de editar perfil y la opción de configurar el método de pago
+Editar perfil de usuario | página para la personalización del propio perfil
+Publicar Piso | serie de formularios que rellenar para publicar un nuevo piso, que se puede localizar por dirección absoluta o utilizando un mapa.
+Buscar Piso | página para buscar piso, que se puede realizar utilizando un mapa o introducciendo una dirección. Cualquier alternativa actualiza la otra.
+Información de piso | detalles de un piso concreto, que incluye información avanzada para facilitar la convivencia, ubicación del piso mostrada como dirección absoluta y en un mapa con información adicional de los establecimientos cercanos así como un resumen del perfil del anunciante
+Pago online | pantalla de pagos que se rellena con la información que se haya rellenado en la sección de pagos del perfil propio. Si no se ha rellenado o no se ha iniciado sesión, se ofrece la opción que corresponda.
+Ayuda | sección de ayuda, a la que se puede acceder como pop-up desde cualquier otra sección de la app y contiene dos opciones: visualizar videotutoriales breves o contactar con el soporte técnico a través de un chat online que estima el tiempo de espera hasta recibir respuesta en base a una heurística
+Sobre nosotros | pagina de información sobre la empresa, con enlace a la página de contacto así como información legal
+contact_us | sección con información de contacto con los diferentes equipos de atención a entidades externas de la empresa
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
