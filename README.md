@@ -96,7 +96,7 @@ Término | Significado
 Página Principal  | pagina principal de la aplicación: enlaza principalmente a buscar piso y publicar piso, aunque muestra también recomendaciones.
 Perfil de usuario | perfil de cada usuario; en caso de acceder al propio sin haber iniciado sesión, da la opción de hacerlo; si se ha iniciado sesión da la opción de editar perfil y la opción de configurar el método de pago
 Editar perfil de usuario | página para la personalización del propio perfil
-Publicar Piso | serie de formularios que rellenar para publicar un nuevo piso, que se puede localizar por dirección absoluta o utilizando un mapa.
+Publicar Piso | serie de formularios que rellenar para publicar un nuevo piso, que se puede localizar por dirección absoluta o utilizando un mapa. Es necesario iniciar sesión para utilizar esta funcionalidad, por lo que se ofrece opción de login si no lo estuviera.
 Buscar Piso | página para buscar piso, que se puede realizar utilizando un mapa o introducciendo una dirección. Cualquier alternativa actualiza la otra.
 Información de piso | detalles de un piso concreto, que incluye información avanzada para facilitar la convivencia, ubicación del piso mostrada como dirección absoluta y en un mapa con información adicional de los establecimientos cercanos así como un resumen del perfil del anunciante
 Pago online | pantalla de pagos que se rellena con la información que se haya rellenado en la sección de pagos del perfil propio. Si no se ha rellenado o no se ha iniciado sesión, se ofrece la opción que corresponda.
