@@ -15,6 +15,8 @@ Con FHome queremos implementar nuevas ideas basadas en el estudio que se ha real
 <img src="../P2/Tasks/tasks.png" width="525">
 Se han implementado todas las tareas en los Wireframes de la sección 2.d de este documento.
 
+
+
 - SITEMAP:
 <img src="../P2/Sitemap/Sitemap_Mumavi.jpg" width="725">
 ** Leyenda **
