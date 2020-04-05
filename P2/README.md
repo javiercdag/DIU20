@@ -47,4 +47,14 @@ Contactar anunciante | formulario para contactar al anunciante de un piso public
 ![Método UX](../img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+<img src="../P2/WireFrames/WireFrame0.jpg">
+
+<img src="../P2/WireFrames/WireFrame1.jpg">
+
+<img src="../P2/WireFrames/WireFrame2.jpg">
+
+<img src="../P2/WireFrames/WireFrame3.jpg">
+
+<img src="../P2/WireFrames/WireFrame4.jpg">
+
+<img src="../P2/WireFrames/WireFrame5.jpg">
