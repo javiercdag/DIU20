@@ -127,7 +127,7 @@ Los wireframes pueden verse ![AQUÍ](P2/WireFrames/)
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
 
-<img src="/P3/logotipoFHome.png" width="50">
+<img src="/P3/logotipoFHome.png" width="200">
 Hemos utilizado Photoshop Portable CS8 para realizar el logotipo, con la idea de hacerlo lo más simple pero reconocible a simple vista posible. Por este motivo hemos utilizado una paleta de colores muy reducida y añadido a la H un grafismo para hacerla similar a una casa.
 
 
