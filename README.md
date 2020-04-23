@@ -7,7 +7,7 @@ Proyecto: Aplicación de buscar piso definitiva
 
 Descripción: En este trabajo se va a buscar diseñar una aplicación de búsqueda de pisos para compartir mejorando las que existen hoy en día
 
-Logotipo: 
+Logotipo: <img src="/P3/logotipoFHome.png" width="50">
 
 Miembros
  * :bust_in_silhouette:  Francisco Javier Casado de Amezúa García     
@@ -127,8 +127,9 @@ Los wireframes pueden verse ![AQUÍ](P2/WireFrames/)
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
 
+<img src="/P3/logotipoFHome.png" width="50">
+Hemos utilizado Photoshop Portable CS8 para realizar el logotipo, con la idea de hacerlo lo más simple pero reconocible a simple vista posible. Por este motivo hemos utilizado una paleta de colores muy reducida y añadido a la H un grafismo para hacerla similar a una casa.
 
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra? 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
