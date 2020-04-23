@@ -24,3 +24,6 @@ Debido a que el logotipo tiene una forma que se adapta tanto a plataformas que r
 ----
 
 >>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+
+![Método UX](../img/mockup.png)  3.e Valoración grupal
+----
