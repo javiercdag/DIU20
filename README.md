@@ -121,8 +121,7 @@ Los wireframes pueden verse ![AQUÍ](P2/WireFrames/)
 ![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
 -----
 
-
->>> Analizar lo aprendido de la experiencia MuseApp
+Los métodos UX que destacan entre los utilizados por MuseMap son su Competitive Analysis y su Affinity Map, que han sido fundamentales en el desarrollo del producto. En cambio, creemos que podrían haber incorporado un Usability Review de alguno de sus competidores más directos, así como añadido una sección de Labelling que, junto a su Sitemap, habría aclarado la funcionalidad de cada una de las vistas de su producto.
 
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
@@ -134,7 +133,8 @@ Hemos utilizado Photoshop Portable CS8 para realizar el logotipo, con la idea de
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado.
+Para el estilo de interfaz de nuestra aplicación hemos utilizado una gama de colores minimalista y una fuente moderna y clara.
+<img src="/P3/Guidelines/EstilosYPatrones.jpg" width="600">
 
 ![Método UX](img/mockup.png)  3.d Video
 ----
