@@ -25,7 +25,15 @@ Debido a que el logotipo tiene una forma que se adapta tanto a plataformas que r
 ![Método UX](../img/guidelines.png) 3.c Guidelines
 ----
 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado.
+<img src="../P3/Guidelines/EstilosYPatrones.jpg" width="1000">
+
+Tipografía: hemos elegido Lato, una tipografía diseñada por el artista polaco Łukasz Dziedzic y publicada bajo licencia open-source con el apoyo de Google. Creemos que es una tipografía moderna y sencilla, que facilita la lectura de párrafos de texto como son las descripciones de los pisos de nuestra aplicación.
+
+Gama de colores: hemos optado por una gama de colores minimalista, donde el blanco y negro aportan claridad y elegancia, mientras que el rojo es el color representativo de la aplicación que puede ser utilizado para enfatizar ciertos elementos de la interfaz de usuario. Además, hemos utilizado un cuarto color, el gris, para trabajar con una gama de colores menos lineal.
+
+Breadcrumbs: es común utilizar breadcrumbs en las páginas webs de hoy en día. En cambio, en móvil, debido al reducido espacio de visualización, no podemos optar por utilizar una navegación breadcrumb tradicional. Es por esto que hemos utilizado una navegación acortada que únicamente muestra la página actual, resaltada en rojo, y dos páginas anteriores. De esta forma podemos mostrarlo en dispositivos móviles sin perjudicar la experiencia del usuario, al evitar que ocupe gran parte de la interfaz de usuario o sea demasiado pequeño.
+
+
 
 ![Método UX](../img/mockup.png)  3.d Video
 ----
