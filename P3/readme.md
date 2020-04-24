@@ -3,9 +3,16 @@
 
 ![Método UX](../img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
 -----
+Tras analizar los métodos UX utilizados en la página de MuseMap, hay dos que destacan sobre el resto:
 
+- Competitive Analysis: esta sección es realmente importante debido a que permitió al equipo de desarrollo de MuseMap comprobar las funcionalidades implementadas en las aplicaciones ya existentes, para conocer cuáles estaban menos representadas así como aquellas que, debido a su gran uso, los usuarios esperan en toda aplicación del estilo. Gracias a este conocimiento pudieron determinar qué funcionalidades implementar para desarrollar un producto único y relevante.
 
->>> Analizar lo aprendido de la experiencia MuseApp
+- Affinity Mapping: este método UX fue fundamental en el desarrollo de MuseMap porque, según mencionan en el documento, antes de llevarlo a cabo tenían una idea que se alejaba de aquella que realmente tenían la mayoría de los usuarios sobre una aplicación enfocada en el arte callejero. Se basa en, tras realizar entrevistas a usuarios con perfiles y afinidades dispares, seleccionados de una encuesta, se recogen todas sus ideas y opiniones haciendo énfasis en aquellas en las que la mayoría de usuarios coinciden. Estas ideas se contrastan con las que originalmente tenía el equipo de desarrollo con el objetivo de encontrar la mejor propuesta.
+
+Un método UX que MuseMap no utilizó fue el Usability Review. Utilizarlo sobre uno de los competidores analizados en el Competitive Analysis podría ayudarles a encontrar problemas de usabilidad que pueden no apreciarse a simple vista. Esto podría ayudarles a no cometer dichos errores durante el desarrollo de su producto.
+
+Otro método UX que tampoco se muestra en el Caste Study del desarrollo de MuseMap es el Labelling. Un correcto uso de este método les podría haber ayudado a determinar qué funcionalidad estaba implementando cada sección de su aplicación.
+
 
 ![Método UX](../img/landing-page.png)  3.b Logotipo
 ----
