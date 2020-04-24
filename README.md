@@ -134,7 +134,7 @@ Hemos utilizado Photoshop Portable CS8 para realizar el logotipo, con la idea de
 ----
 
 Para el estilo de interfaz de nuestra aplicación hemos utilizado una gama de colores minimalista y una fuente moderna y clara.
-<img src="/P3/Guidelines/EstilosYPatrones.jpg" width="600">
+<img src="/P3/Guidelines/EstilosYPatrones.jpg" width="1000">
 
 ![Método UX](img/mockup.png)  3.d Video
 ----
