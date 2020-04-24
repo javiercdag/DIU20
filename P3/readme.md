@@ -23,7 +23,15 @@ Hemos utilizado Photoshop Portable CS8 para realizar el logotipo, con la idea de
 Debido a que el logotipo tiene una forma que se adapta tanto a plataformas que requieran de fotos cuadradas como a otras que utilicen formas redondeadas, y que su fondo es transparente al aprovechar esta propiedad del formato de imágenes PNG, el logotipo podría utilizarse para representar a la aplicación en cualquier red social o portal web sobre el que se utilice. Para un banner (que suele tener forma rectangular) debería de complementarse el logo con otra imagen que rellene el espacio restante; gracias a la reducida paleta de colores utilizada, hacerlo no debería de suponer ningún problema.
 
 Un ejemplo de un banner que se podría crear a partir del logotipo es el siguiente:
-<img src="/P3/Guidelines/BannerRecortado.jpg" width="900">
+
+Banner original: 1920x1080px (el ancho se ajusta al tamaño de GitHub)
+<img src="/P3/Guidelines/Banner.jpg" width="100%">
+
+Banner recortado 1: 1920x840px (el ancho se ajusta al tamaño de GitHub)
+<img src="/P3/Guidelines/BannerRecortado.jpg" width="100%">
+
+Banner recortado 2: 1920x500px (el ancho se ajusta al tamaño de GitHub)
+<img src="/P3/Guidelines/BannerRecortadoMUCHO.jpg" width="100%">
 
 
 ![Método UX](../img/guidelines.png) 3.c Guidelines
