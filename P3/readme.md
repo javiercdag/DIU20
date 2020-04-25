@@ -50,7 +50,7 @@ Breadcrumbs: es común utilizar breadcrumbs en las páginas webs de hoy en día.
 ![Método UX](../img/mockup.png)  3.d Video
 ----
 
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+El vídeo se encuentra disponible siguiendo el siguiente enlace: (https://www.youtube.com/watch?v=qQBUKe2nYXc)
 
 ![Método UX](../img/mockup.png)  3.e Valoración grupal
 ----
