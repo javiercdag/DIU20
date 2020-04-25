@@ -126,7 +126,7 @@ Para el estilo de interfaz de nuestra aplicación hemos utilizado una gama de co
 ![Método UX](img/mockup.png)  3.d Video
 ----
 
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+El vídeo se encuentra disponible en este ![ENLACE](https://www.youtube.com/watch?v=qQBUKe2nYXc)
 
 
 ## Paso 4. UX Check (Usability Testing) 
