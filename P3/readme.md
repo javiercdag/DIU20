@@ -25,13 +25,13 @@ Debido a que el logotipo tiene una forma que se adapta tanto a plataformas que r
 Un ejemplo de un banner que se podría crear a partir del logotipo es el siguiente:
 
 Banner original: 1920x1080px (el ancho se ajusta al tamaño de GitHub)
-<img src="/P3/Guidelines/Banner.jpg" width="100%">
+<img src="../P3/Guidelines/Banner.jpg" width="100%">
 
 Banner recortado 1: 1920x840px (el ancho se ajusta al tamaño de GitHub)
-<img src="/P3/Guidelines/BannerRecortado.jpg" width="100%">
+<img src="../P3/Guidelines/BannerRecortado.jpg" width="100%">
 
 Banner recortado 2: 1920x500px (el ancho se ajusta al tamaño de GitHub)
-<img src="/P3/Guidelines/BannerRecortadoMUCHO.jpg" width="100%">
+<img src="../P3/Guidelines/BannerRecortadoMUCHO.jpg" width="100%">
 
 
 ![Método UX](../img/guidelines.png) 3.c Guidelines
