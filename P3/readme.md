@@ -52,5 +52,11 @@ Breadcrumbs: es común utilizar breadcrumbs en las páginas webs de hoy en día.
 
 El vídeo se encuentra disponible siguiendo el siguiente enlace: (https://www.youtube.com/watch?v=qQBUKe2nYXc)
 
-![Método UX](../img/mockup.png)  3.e Valoración grupal
+![Método UX](../img/mockup.png)  3.e Conclusiones
 ----
+
+Con la realización de esta práctica hemos podido apreciar la importancia del correcto uso de un UX Case Study a la hora de crear un producto. El haberlo visto reflejado en el producto final 'MuseMap' ha servido para reafirmar esa idea. La grabación del vídeo nos ha mostrado la dificultad de contar mucho en tan sólo unas pocas palabras; aún así, creemos que hemos conseguido sintetizar nuestra idea y el UX Case Study que tiene asociado en ese breve período de tiempo.
+
+La realización de grafismos y el estudio de diferentes guidelines ha sido muy inspirador, pues veíamos como nuestro trabajo se convertía en algo más tangible, al igual que cuando realizamos los wireframes en la práctica anterior.
+
+En conclusión, nos ha parecido muy acertada la adaptación excepcional de esta práctica por la situación global actual y no dudaremos en utilizar estos métodos de experiencia de usuario en proyectos futuros.
