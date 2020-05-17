@@ -124,34 +124,53 @@ El vídeo se encuentra disponible en el siguiente enlace: (https://www.youtube.c
 
 ## Paso 4. Evaluación
 
-![Método UX](img/ABtesting.png) 4.a Casos asignados
+Este paso puede encontrarse, con mayor nivel de detalle, en su [readme](P4/readme.md) asociado.
+
+![Método UX](../img/ABtesting.png) 4.a Casos asignados
 ----
 
-
->>> Descripción de las asignaciones (3 UX Case Study) y enlace a sus repositorios.
-
-En la seccioón P4/readme.md se debe acceder además a sus respectivas hojas de evaluación y conclusiones
+Se ha añadido un comentario personalizado para cada uno de los trabajos que nos han sido asignados; están disponibles en el documento [readme](P4/readme.md) de la práctica, en la sección 4.a. Los casos que hemos analizado son:
 
 
+- DIU1.ODAKACI: (https://github.com/cmartin-moreno/DIU20)
 
-![Método UX](img/usability-testing.png) 4.b User Testing
+Enlace a la valoración según rúbrica: ![CASO1/DIU1.ODAKACI_review.xls](CASO1/DIU1.ODAKACI_review.xls)
+
+
+- DIU2.Ortega-Y-Gasset: (https://github.com/romanlarrosa/DIU20)
+
+Enlace a la valoración según rúbrica: (![CASO2/DIU2.OrtegayGasset_review.xls](CASO2/DIU2.OrtegayGasset_review.xls))
+
+
+- DIU3.Manduka:  (https://github.com/alexhzr/DIUManduka)
+
+Enlace a la valoración según rúbrica: ![CASO3/DIU3.Manduka_review.xls](CASO3/DIU3.Manduka_review.xls)
+
+
+![Método UX](../img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione a una de sus personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas
+- DIU1.ODAKACI
+
+Hemos elegido a Evaristo para este caso.
+
+- DIU2.Ortega-Y-Gasset
+
+Para analizar la experiencia de usuario con esta aplicación hemos elegido a nuestra persona Erika.
+
+- DIU3.Manduka
+
+Hemos elegido a Evaristo para llevar a cabo la valoración en este caso.
 
 
-![Método UX](img/Survey.png). 4.c Ranking
+![Método UX](../img/Survey.png). 4.c Ranking
 ----
 
->>> Concluya con un ranking de los casos evaluados
+- DIU2.Ortega-Y-Gasset -> 86 puntos
 
+- DIU1.ODAKACI -> 80 puntos
 
-
-
-## Conclusión / Valoración de las prácticas
-
-
->>> (90-150 caracteres) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+- DIU3.Manduka -> 54 puntos
 
 
 
