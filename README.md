@@ -126,7 +126,7 @@ El vídeo se encuentra disponible en el siguiente enlace: (https://www.youtube.c
 
 Este paso puede encontrarse, con mayor nivel de detalle, en su [readme](P4/readme.md) asociado.
 
-![Método UX](../img/ABtesting.png) 4.a Casos asignados
+![Método UX](img/ABtesting.png) 4.a Casos asignados
 ----
 
 Se ha añadido un comentario personalizado para cada uno de los trabajos que nos han sido asignados; están disponibles en el documento [readme](P4/readme.md) de la práctica, en la sección 4.a. Los casos que hemos analizado son:
@@ -147,7 +147,7 @@ Enlace a la valoración según rúbrica: (![CASO2/DIU2.OrtegayGasset_review.xls]
 Enlace a la valoración según rúbrica: ![CASO3/DIU3.Manduka_review.xls](CASO3/DIU3.Manduka_review.xls)
 
 
-![Método UX](../img/usability-testing.png) 4.b User Testing
+![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
 - DIU1.ODAKACI
@@ -163,7 +163,7 @@ Para analizar la experiencia de usuario con esta aplicación hemos elegido a nue
 Hemos elegido a Evaristo para llevar a cabo la valoración en este caso.
 
 
-![Método UX](../img/Survey.png). 4.c Ranking
+![Método UX](img/Survey.png). 4.c Ranking
 ----
 
 - DIU2.Ortega-Y-Gasset -> 86 puntos
