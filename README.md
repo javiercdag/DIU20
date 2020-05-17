@@ -30,14 +30,10 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres)
-
 Tras analizar aplicaciones como Coachsurfing Travel, Splitwise, PisoCompartido o Badi decidimos optar por la última debido a que, a nuestro parecer, era la que ofrecía el servicio de mayor calidad.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
-
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
 - **Erika:** en el registro se debía elegir entre género chico/chica, lo que puede ocasionar problemas de convivencia para personas como Erika. Además, solucionar el problema que esta Persona encuentra es sencillo, barato y tiene un gran impacto.
 
@@ -45,9 +41,6 @@ Tras analizar aplicaciones como Coachsurfing Travel, Splitwise, PisoCompartido o
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
-
-
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
 - **Erika:** nuestra inspiración para crear a Erika fue imaginar la situación que podría ocurrir cuando alguien con este perfil utiliza la aplicación, y eso es lo representado en el journey map. A más personas no se identifiquen con los dos géneros clásicos, más habitual se volvería.
 
@@ -57,7 +50,6 @@ Tras analizar aplicaciones como Coachsurfing Travel, Splitwise, PisoCompartido o
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 
 - Enlace al documento: ![Haga click aquí para ver el documento](P1/UsabilityReview/UsabilityReview-Badi-Mumavi.pdf)
 - Valoración final (numérica): 85
