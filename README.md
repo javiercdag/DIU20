@@ -154,10 +154,6 @@ En la seccioón P4/readme.md se debe acceder además a sus respectivas hojas de 
 >>> Concluya con un ranking de los casos evaluados
 
 
-![Método UX](img/usability-report.png) 4.c Valoración personal
-----
-
-
 
 
 ## Conclusión / Valoración de las prácticas
