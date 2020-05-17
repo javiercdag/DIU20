@@ -21,7 +21,15 @@ Enlace a la valoración: ()
 
 - DIU3.Manduka:  (https://github.com/alexhzr/DIUManduka)
 
-Enlace a la valoración: ()
+Proponen una mejora para una app para contratar chefs para cocinar por alguien. En su caso han decidido mantener una funcionalidad parecida a sus competidores pero con ciertas mejoras para pulir más su aplicación.
+
+Destacamos unas guidelines muy cuidadas y extensas, que muestran en gran detalle cómo será la pliación final. Además, cuentan con un logotipo muy amigable que concuerda con el propósito de su aplicación.
+
+Por otra parte, vemos que el github está bastante descuidado. Faltan muchos archivos, sobran archivos de plantillas y algunas localizaciones son confusas, por lo que se debería trabajar en este aspecto. Creemos que hay una falta de wireframes bastante importante, ya que no nos podemos hacer una idea de cómo será la aplicación (sólo muestran dos cosas). Además, los personajes necesitarían más detalles y los journeymap no aportan nada para buscar problemas de diseño, ya que no se plantea ninguno claro en éstos. Para acabar, el vídeo no comenta todo lo trabajado y está grabado con una marca de agua.
+
+En general, el grupo Manduka ha hecho un buen trabajo, pero ha descuidado ciertas partes que podrían hacerlo bastante mejor, sobre todo el añadir cosas al Readme, ya que hubiera facilitado la realización de esta valoración sin tener que indagar en los archivos del github para ver qué había y qué no.
+
+Enlace a la valoración: ![CASO3/DIU3.Manduka_review.xls](CASO3/DIU3.Manduka_review.xls)
 
 
 ![Método UX](../img/usability-testing.png) 4.b User Testing
@@ -36,12 +44,14 @@ Hemos elegido a Evaristo para este caso. Creemos que un problema que pudiera ten
 
 - DIU3.Manduka
 
+Hemos elegido a Evaristo para este caso. Creemos que Evaristo podría contratar a un chef para tener una cita, ya que él no sabe cocinar. Un problema que se podría plantear es que el chef cancele su asistencia con muy poca antelación y Evaristo no pueda hacer nada, ya que no se le sustituye por otro chef para que siga en pie la comida y tenga que cancelar sus planes.
+
 
 ![Método UX](../img/Survey.png). 4.c Ranking
 ----
 
-- DIU1.ODAKACI -> 81 puntos
+- DIU2.Ortega-Y-Gasset -> 86 puntos
 
-- DIU2.Ortega-Y-Gasset -> n puntos
+- DIU1.ODAKACI -> 80 puntos
 
-- DIU3.Manduka -> n puntos
+- DIU3.Manduka -> 54 puntos
