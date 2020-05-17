@@ -51,6 +51,7 @@ Enlace a la valoración según rúbrica: ![CASO3/DIU3.Manduka_review.xls](CASO3/
 Hemos elegido a Evaristo para este caso. Creemos que un problema que pudiera tener es que la aplicación es bastante compleja y espera que los usuarios tengan un dominio base de la tecnología, haciendo el buscar un viaje y/o pareja sea bastante complicado para él. Además, el abusar del chat para concretar detalles como itinerarios o actividades puede volverse bastante confuso.
 
 - DIU2.Ortega-Y-Gasset
+
 Para la experiencia de usuario con esta aplicación hemos elegido a nuestra persona Erika. Cuando realizamos su User Journey Map sobre Badi encontramos como problema la existencia de únicamente dos géneros en la personalización de perfil de ésta aplicación, y el equipo de trabajo que se analiza en esta sección no solventa este problema, por lo que la situación podría seguir ocurriendo. Es por esto que les proponemos añadir ese pequeño cambio para evitar los problemas de convivencia que podría ocasionar, como se analizó en la sección 1ª de nuestro documento.
 
 - DIU3.Manduka
