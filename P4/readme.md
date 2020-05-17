@@ -13,7 +13,7 @@ Destacamos su muy buen diseño de wireframes y sitemap, así como unas guideline
 
 Por otra parte, echamos en falta un análisis de otros competidores, además de una descripción más extensa de los elementos de la primera práctica.
 
-Enlace a la valoración: ![/CASO1/DIU1.ODAKACI_review.xls](/CASO1/DIU1.ODAKACI_review.xls)
+Enlace a la valoración: ![CASO1/DIU1.ODAKACI_review.xls](CASO1/DIU1.ODAKACI_review.xls)
 
 - DIU2.Ortega-Y-Gasset: (https://github.com/romanlarrosa/DIU20)
 
